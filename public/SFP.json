@@ -1,0 +1,176 @@
+[
+ {
+   "Lat": 37.78617,
+   "Long_": -122.407181,
+   "Address": "Ellis OFarrell Garage",
+   "Capacity": 1020
+ },
+ {
+   "Lat": 37.78325,
+   "Long_": -122.405329,
+   "Address": "Fifth and Mission Garage",
+   "Capacity": 2585
+ },
+ {
+   "Lat": 37.784461,
+   "Long_": -122.39963,
+   "Address": "Moscone Center Garage",
+   "Capacity": 752
+ },
+ {
+   "Lat": 37.792012,
+   "Long_": -122.404546,
+   "Address": "St. Marys Square Garage",
+   "Capacity": 865
+ },
+ {
+   "Lat": 37.789732,
+   "Long_": -122.406825,
+   "Address": "Sutter Stockton Garage",
+   "Capacity": 1650
+ },
+ {
+   "Lat": 37.787809,
+   "Long_": -122.407609,
+   "Address": "Union Square Garage",
+   "Capacity": 800
+ },
+ {
+   "Lat": 37.785743,
+   "Long_": -122.400699,
+   "Address": "151 03rd St",
+   "Capacity": 25
+ },
+ {
+   "Lat": 37.78617,
+   "Long_": -122.401269,
+   "Address": "125 03rd ST",
+   "Capacity": 20
+ },
+ {
+   "Lat": 37.786527,
+   "Long_": -122.401625,
+   "Address": " MISSION ST",
+   "Capacity": 8
+ },
+ {
+   "Lat": 37.787025,
+   "Long_": -122.402622,
+   "Address": "45 03RD ST",
+   "Capacity": 19
+ },
+ {
+   "Lat": 37.789518,
+   "Long_": -122.403762,
+   "Address": "155 Sutter St",
+   "Capacity": 18
+ },
+ {
+   "Lat": 37.78959,
+   "Long_": -122.403406,
+   "Address": "191 SUTTER ST",
+   "Capacity": 12
+ },
+ {
+   "Lat": 37.791906,
+   "Long_": -122.404331,
+   "Address": "223 SUTTER ST",
+   "Capacity": 10
+ },
+ {
+   "Lat": 37.792821,
+   "Long_": -122.404394,
+   "Address": "580 CALIFORNIA ST",
+   "Capacity": 45
+ },
+ {
+   "Lat": 37.790075,
+   "Long_": -122.403479,
+   "Address": "222 KEARNY ST",
+   "Capacity": 53
+ },
+ {
+   "Lat": 37.786179,
+   "Long_": -122.403482,
+   "Address": "223 STEVENSON ST",
+   "Capacity": 27
+ },
+ {
+   "Lat": 37.785138,
+   "Long_": -122.404553,
+   "Address": "55 04TH ST",
+   "Capacity": 19
+ },
+ {
+   "Lat": 37.785287,
+   "Long_": -122.405475,
+   "Address": "22 04th ST",
+   "Capacity": 10
+ },
+ {
+   "Lat": 37.787577,
+   "Long_": -122.40839,
+   "Address": "335 POWELL ST (really on Geary)",
+   "Capacity": 62
+ },
+ {
+   "Lat": 37.789481,
+   "Long_": -122.408063,
+   "Address": "450 SUTTER ST",
+   "Capacity": 30
+ },
+ {
+   "Lat": 37.78574894,
+   "Long_": -122.4058442,
+   "Address": "ELLIS",
+   "Capacity": 21
+ },
+ {
+   "Lat": 37.78662029,
+   "Long_": -122.4064121,
+   "Address": "OFARRELL",
+   "Capacity": 28
+ },
+ {
+   "Lat": 37.78757297,
+   "Long_": -122.4066031,
+   "Address": "GEARY",
+   "Capacity": 43
+ },
+ {
+   "Lat": 37.78850442,
+   "Long_": -122.4067844,
+   "Address": "post",
+   "Capacity": 77
+ },
+ {
+   "Lat": 37.79026748,
+   "Long_": -122.4079836,
+   "Address": "BUSH",
+   "Capacity": 65
+ },
+ {
+   "Lat": 37.79150305,
+   "Long_": -122.4057551,
+   "Address": "PINE",
+   "Capacity": 56
+ },
+ {
+   "Lat": 37.78673551,
+   "Long_": -122.4045965,
+   "Address": "GRANT",
+   "Capacity": 97
+ },
+ {
+   "Lat": 37.78574894,
+   "Long_": -122.4058442,
+   "Address": "STOCKTON",
+   "Capacity": 60
+ },
+ {
+   "Lat": 37.78264946,
+   "Long_": -122.4003876,
+   "Address": "FOLSOM",
+   "Capacity": 44
+ }
+]

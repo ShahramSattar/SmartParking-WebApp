@@ -1,0 +1,29 @@
+{
+  "name": "smartparking",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node $NODE_DEBUG_OPTION ./bin/www",
+    "build": "browserify webmap.js -o public/javascripts/webmap.js & cp node_modules/leaflet/dist/leaflet.css public/stylesheets/leaflet.css"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "google-distance-matrix": "^1.1.1",
+    "http": "0.0.0",
+    "http-errors": "~1.6.2",
+    "leaflet": "^1.4.0",
+    "leaflet-realtime": "^2.1.1",
+    "leaflet.featuregroup.subgroup": "^1.0.2",
+    "leaflet.markercluster": "^1.4.1",
+    "morgan": "~1.9.0",
+    "pg": "^7.8.2",
+    "pg-promise": "^8.6.3",
+    "pug": "2.0.0-beta11",
+    "request": "^2.88.0",
+    "socket.io": "^2.2.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
